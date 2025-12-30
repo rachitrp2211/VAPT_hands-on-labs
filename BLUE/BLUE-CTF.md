@@ -69,7 +69,7 @@ Nmap done: 1 IP address (1 host up) scanned in 83.01 seconds
 
 so now we will do some surfing on internet 
 
-![image.png](BLUE-CTF/image%201.png)
+![image.png](BLUE-CTF/image.png)
 
 So from here we got to know it exploitable at eternal blue we will will automate our digging from metasploit
 

@@ -1,4 +1,4 @@
-# VAPT Hands-on Lab & Blue CTF
+# VAPT Hands-on Lab 
 
 This repository contains my hands-on practice in Vulnerability Assessment and Penetration Testing (VAPT) 
 through Capture The Flag (CTF) challenges, focusing on real-world attack and defense techniques.
